@@ -1,0 +1,22 @@
+{
+    "name": "ailixter/puzzle-example",
+    "description": "Example Puzzle",
+    "type": "demo",
+    "license": "MIT",
+    "require": {
+        "ailixter/puzzle-container": "dev-master",
+        "ailixter/puzzle-middleware": "dev-master",
+        "sunrise/http-message": "^1",
+        "sunrise/http-server-request": "^1",
+        "middlewares/client-ip": "dev-master",
+        "middlewares/content-length": "dev-master",
+        "middlewares/emitter": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "ailixter",
+            "email": "ailixter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
